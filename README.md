@@ -20,7 +20,7 @@ Excecutes multiple software commands to analyze library contents, trim, clean, a
 0) FastQC - raw quality analysis
 1) TrimGalore - clean and trim reads
 2) FastQC - clean quality analysis
-3) meRanT alignment - map reads
+3) meRanT alignment - map reads to transcriptome (can be changed to genome)
 4) meRanCall - generates a table of m5C sites per transcript
 5) meRanDiff - (not added, unreliable) will generate analysis of differentially methylated sites between samples
 
