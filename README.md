@@ -22,7 +22,7 @@ Excecutes multiple software commands to analyze library contents, trim, clean, a
 2) FastQC - clean quality analysis
 3) meRanT alignment - map reads to transcriptome (can be changed to genome)
 4) meRanCall - generates a table of m5C sites per transcript
-5) meRanDiff - (not added, unreliable) will generate analysis of differentially methylated sites between samples
+5) meRanComapre - (not added yet) will generate analysis of differentially methylated sites between samples
 
 ## 3) MultiQC
 ### Input: statitics summaries of FastQC and meRanT | Output: .html report of all analysis
